@@ -7,7 +7,7 @@ import RPC.RockPaperScissors
  * Test {@link RockPaperScissors}
  * First Test to RPS
  */
-class TestRPCTest{
+class TestRPS {
     void setUp() {
         super.setUp()
 
