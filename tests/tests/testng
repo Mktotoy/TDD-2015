@@ -1,9 +1,9 @@
-<?xml ve rsion =" 1. 0 " encoding ="UTF−8"?>
+<?xml version =" 1. 0 " encoding ="UTF−8"?>
     <suite name ="RPS" verbose ="1">
-        <parameter name ="paper " value ="PAPER"/>
-        <parameter name =" rock " value ="ROCK"/>
-        <parameter name =" rock " value ="SCISSORS"/>
-        <test name =" tes tWinPlay " >
+        <parameter name ="paper" value ="PAPER"/>
+        <parameter name ="rock" value ="ROCK"/>
+        <parameter name ="scissors" value ="SCISSORS"/>
+        <test name ="testWinPlay">
             <classes>
                 <class name ="tests.TestRPS">
                     <methods>
