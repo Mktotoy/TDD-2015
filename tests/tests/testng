@@ -8,8 +8,8 @@
                 <class name ="tests.TestRPS">
                     <methods>
                         <include name ="testWinPlay"></ include >
-                    </ methods >
-                </ class >
-            </ classes >
-        </ test >
-</ suite >
+                    </methods>
+                </class>
+            </classes>
+        </test>
+</suite>
