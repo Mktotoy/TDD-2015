@@ -5,15 +5,5 @@ package RPC;
  * Get the result of RPC battle
  */
 public enum Result {
-    WIN("Win"), LOST("Lost"), NUL("Nul");
-
-    private final String result;
-
-    Result(String res) {
-        this.result = res;
-    }
-
-    public String GetResult() {
-        return this.result;
-    }
+    WIN,LOST,TIE;
 }

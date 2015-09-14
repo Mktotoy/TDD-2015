@@ -1,0 +1,15 @@
+<?xml ve rsion =" 1. 0 " encoding ="UTF−8"?>
+    <suite name ="RPS" verbose ="1">
+        <parameter name ="paper " value ="PAPER"/>
+        <parameter name =" rock " value ="ROCK"/>
+        <parameter name =" rock " value ="SCISSORS"/>
+        <test name =" tes tWinPlay " >
+            <classes>
+                <class name ="tests.TestRPS">
+                    <methods>
+                        <include name ="testWinPlay"></ include >
+                    </ methods >
+                </ class >
+            </ classes >
+        </ test >
+</ suite >
