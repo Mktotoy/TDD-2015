@@ -38,4 +38,8 @@ public class RockPaperScissors {
         else
             return Result.LOST;
     }
+
+    public Result play(Joueur J1,Joueur J2){
+        return Result.LOST;
+    }
 }
