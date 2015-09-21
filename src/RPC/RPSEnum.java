@@ -13,7 +13,7 @@ public enum RPSEnum {
     }
 
     public String GetNom(){
-        return nom;
+        return this.nom;
     }
 
 
